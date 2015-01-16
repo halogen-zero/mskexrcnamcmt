@@ -19,7 +19,7 @@ Directory path of exercises screen shots of Kantai Collection.
 
 ## Behavior
 * Create new image which masked names and comments of **PNG** image files
-(file extensionin should be `png`) in `KANCOLLE_EXRC_RSLT_IMG_PATH`.
+(file extension should be `png`.) in `KANCOLLE_EXRC_RSLT_IMG_PATH`.
 * If source image file name is `foo.png`, destination image file name will be
 `foo_masked.png`.
 
